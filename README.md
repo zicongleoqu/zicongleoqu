@@ -2,4 +2,3 @@
 - 🌱 I’m currently studying computer engineering at the University of Waterloo 
 -     Relevant Coursework: OOP in C++, Data structure & Algorithms, ARM assembly language, VHDL
 -     Excellent Standing
-- 📫 leoqu9577@gmail.com
