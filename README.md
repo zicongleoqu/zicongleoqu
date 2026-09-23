@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Leo Qu 
-- Computer engineering at the University of Waterloo 
+- SDE @ Versa Networks | MEng @ UofT
